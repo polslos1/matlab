@@ -1,1 +1,1 @@
-Projekt matlab
+Projekt matlab - klasyfikatory liniowe
